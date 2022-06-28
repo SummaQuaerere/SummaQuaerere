@@ -1,6 +1,6 @@
 # SummaQuaerere
 
-
+SummaQuaerere is an open-source search engine that allows fast indexing of popular web pages using web server logs.
 
 ## Getting started
 
